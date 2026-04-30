@@ -1,0 +1,26 @@
+TOPIC: [Topic Name]
+===================
+
+SUMMARY:
+[One paragraph explaining what this topic is about]
+
+KEY CONCEPTS:
+- [Concept 1]: [Brief explanation]
+- [Concept 2]: [Brief explanation]
+- [Concept 3]: [Brief explanation]
+
+PRACTICAL EXAMPLES:
+[Example 1]:
+[Show a concrete example]
+
+[Example 2]:
+[Show another example]
+
+TIPS:
+- [Tip 1]
+- [Tip 2]
+- [Tip 3]
+
+RESOURCES:
+- [Link or reference 1]
+- [Link or reference 2]
