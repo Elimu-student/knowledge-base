@@ -1,0 +1,20 @@
+TOPIC: Command Line Tips
+========================
+
+SUMMARY:
+The command line (terminal) is a powerful tool for developers.
+
+USEFUL COMMANDS:
+- pwd: Print working directory (where am I?)
+- ls: List files in current directory
+- cd: Change directory
+- mkdir: Create a new directory
+- rm: Remove a file
+- mv: Move or rename a file
+- cat: View file contents
+
+PRODUCTIVITY TIPS:
+- Use Tab completion to auto-complete file names
+- Press Up arrow to see previous commands
+- Use Ctrl+C to stop a running command
+- Use clear to clean up the screen
